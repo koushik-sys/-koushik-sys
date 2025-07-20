@@ -92,7 +92,6 @@ Multipurpose agricultural automation tool to help farmers monitor and protect cr
 
 ---
 
- width="200" alt="Thank you GIF" />
 </p>
 
 <h3 align="center">Thanks for visiting! 👋</h3>
