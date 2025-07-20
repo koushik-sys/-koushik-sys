@@ -34,12 +34,6 @@
 
 ## 🚀 Projects
 
-> _Here are a few highlights of what I've worked on:_
-
-### 🌾 Crop Rotation Advisor (AI + Web)
-An AI-based web advisory system to help farmers decide optimal crop rotations using ANN.
-
-**Tech Stack**: Python, Keras, Flask, JavaScript, MongoDB
 
 ---
 
@@ -82,12 +76,6 @@ Multipurpose agricultural automation tool to help farmers monitor and protect cr
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koushikmyneni&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushikmyneni&theme=radical" width="49%"/>
-</p>
 
 ---
 
@@ -104,8 +92,7 @@ Multipurpose agricultural automation tool to help farmers monitor and protect cr
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" alt="Thank you GIF" />
+ width="200" alt="Thank you GIF" />
 </p>
 
 <h3 align="center">Thanks for visiting! 👋</h3>
