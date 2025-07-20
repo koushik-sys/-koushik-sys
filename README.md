@@ -34,7 +34,14 @@
 
 ## 🚀 Projects
 
+> _Here are a few highlights of what I've worked on:_
 
+### 🌾 Crop Rotation Advisor (AI + Web)
+An AI-based web advisory system to help farmers decide optimal crop rotations using ANN.
+
+**Tech Stack**: Python, Keras, Flask, JavaScript, MongoDB
+
+---
 
 ### 🦯 Smart Blind Stick
 Smart mobility stick designed for visually impaired people with sensors and alerts.
@@ -75,11 +82,19 @@ Multipurpose agricultural automation tool to help farmers monitor and protect cr
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=koushikmyneni&show_icons=true&theme=radical" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushikmyneni&theme=radical" width="49%"/>
+</p>
+
+---
 
 ## 📬 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/myneni-koushik-choudary-5b42aa2b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:koushikmyneni88@gmail.com">
